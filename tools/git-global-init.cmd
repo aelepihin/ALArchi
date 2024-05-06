@@ -2,8 +2,8 @@
 
 @rem for current user
 
-git config --global user.name "Your Name"
-git config --global user.email your@email
+git config --global user.name "Alexandr ih coin"
+git config --global user.email aeleppihin@gmail.com
 
 @rem global
 

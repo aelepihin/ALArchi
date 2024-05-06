@@ -2,8 +2,8 @@
 
 # for current user
 
-git config --global user.name "Your Name"
-git config --global user.email your@email
+git config --global user.name "Alexandr in home"
+git config --global user.email aelepihin@gmail.com
 
 # global
 
